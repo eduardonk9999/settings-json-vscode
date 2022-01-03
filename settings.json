@@ -11,4 +11,13 @@
   "editor.fontSize": 16,
   "editor.lineHeight": 26,
   "editor.fontFamily": "JetBrains Mono",
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "editor.rulers": [80, 120],
+    
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
 }
